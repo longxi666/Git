@@ -10,6 +10,7 @@ public class Git {
         System.out.println("Master!");
         System.out.println("HotFix_001");
            System.out.println("龙哥好帅");
+              System.out.println("帅就完事了");
        }
 
 }
